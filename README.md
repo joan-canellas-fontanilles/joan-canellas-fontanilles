@@ -32,6 +32,7 @@ A web developer with a passion for the development of scalable apps and working 
   * Familiarity with DevOps tools such as Jenkins for CI/CD, and deployment using K8s. 
   
   **Mid Fullstack Developer** @ ClearPeaks
+  
   09/2020 - 06/2021, Reus, Spain 
   
   Development of a web based BI application for larger corporations.
@@ -41,6 +42,7 @@ A web developer with a passion for the development of scalable apps and working 
   * Worked with development methodologies such as Agile and Scrum.
   
   **Fullstack Developer** @ FM logistics (IKEA)
+  
   12/2017 - 09/2020, Valls, Spain 
   
   Working on internal projects to help a warehouse management.
